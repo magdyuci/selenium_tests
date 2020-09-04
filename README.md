@@ -1,2 +1,2 @@
 # qa_project_textNG
-Is a little project related to with the tests that we can doing in an API (Example: https://jsonplaceholder.typicode.com) using maven, java and TestNG.
+Is a little project related to the selenium is a simple test for creating a Pipeline in jenkins (maven, selenium, java and TestNG).
